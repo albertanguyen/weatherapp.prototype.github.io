@@ -35,7 +35,6 @@ THE USER is
 
 ## Describe any challenges encountered while building the app.
 * npm ERR! cb() never called!
-* work with postman again and api parameters in querying
 
 ## License
 
